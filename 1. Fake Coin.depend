@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560934444 source:c:\users\eanzo\onedrive\second year degree\algorithm analysis and design\assignment\assignment 1\1. fake coin\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
